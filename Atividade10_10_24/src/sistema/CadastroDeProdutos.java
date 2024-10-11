@@ -7,7 +7,7 @@ import objetos.Produto;
 public class CadastroDeProdutos {
 	
 	static Scanner scan = new Scanner(System.in);
-	static ArrayList<Produto> lista = new ArrayList<Produto>();
+	static ArrayList<Produto> lista;
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
